@@ -1,0 +1,43 @@
+.navbar {
+    background-color: rgba(239, 124, 124, 0.072);
+    border: 1px solid black;
+}
+
+.navbar-brand {
+    font-size: 18px;
+    display: inline-block;
+    text-decoration: underline;
+    transition: .2s ease-in-out;
+    }
+
+
+.navbar-brand:hover {
+    transform: scale(1.25);
+    text-decoration: none;
+}
+
+table {
+    margin-top: 10px;
+    border: 5px solid rgba(239, 124, 124, 0.072);
+}
+
+.links {
+    text-decoration: none;
+}
+
+h3 {
+    margin-top: 35px;
+    text-align: center;
+}
+
+.input-group {
+    border: 5px solid rgba(239, 124, 124, 0.072);
+}
+
+.input-group-text {
+    min-width: 100px;
+}
+
+#buttons {
+    margin-top: 15px;
+}
